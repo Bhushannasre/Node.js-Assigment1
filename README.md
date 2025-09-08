@@ -35,7 +35,7 @@ DELETE /user/:id → Delete a user by ID
 
 Clone the repository:
 
-git clone https://github.com/your-username/user-management-api.git
+git clone https://github.com/Bhushannasre/Node.js-Assigment1.git
 cd user-management-api
 
 
@@ -79,4 +79,5 @@ Response:
 Node.js
 
 Express.js
+
 
